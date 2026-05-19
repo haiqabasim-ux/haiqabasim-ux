@@ -25,5 +25,5 @@ I’m a passionate frontend developer focused on building responsive and user-fr
 - APIs
 
 ## 📫 Connect With Me
-- LinkedIn: :contentReference[oaicite:0]{index=0}
-- Portfolio: :contentReference[oaicite:1]{index=1}
+- LinkedIn:https://www.linkedin.com/in/shagufta-naz-09993686/
+- Portfolio: https://github.com/haiqabasim-ux/potfolio
