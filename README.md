@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Shagufta Naz
 
-<!--
-**haiqabasim-ux/haiqabasim-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | HTML | CSS | JavaScript
 
-Here are some ideas to get you started:
+I’m a passionate frontend developer focused on building responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🎲 Dice Game
+- ⏰ Digital Clock
+- 🎂 Age Calculator
+- ⚡ Traffic Signal Checker
+- 💡 Counter App
+- 💰 K-Electric Bill Calculator
+
+## 🛠 Skills
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Responsive Design
+
+## 🌱 Currently Learning
+- Advanced JavaScript
+- React.js
+- APIs
+
+## 📫 Connect With Me
+- LinkedIn: :contentReference[oaicite:0]{index=0}
+- Portfolio: :contentReference[oaicite:1]{index=1}
